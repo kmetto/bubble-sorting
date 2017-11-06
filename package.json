@@ -1,0 +1,18 @@
+{
+  "name": "octopus-bubble-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bubble-sort.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "Konstantin Metto <met9127@gmail.com> (https://unicore.by)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "mocha": "^4.0.1"
+  }
+}
